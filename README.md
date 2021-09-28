@@ -1,6 +1,5 @@
 ![ghub](https://user-images.githubusercontent.com/91144793/135103505-73076b5e-fc49-44c2-8cdd-939d4b63bf50.jpg)
 
-
 <!--
 **MichealOSull/MichealOSull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
